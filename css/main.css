@@ -13,9 +13,11 @@
 
 	p, a {
 		font-family: "Sawarabi Mincho";
-		font-size: 1.5em;
 	}
 
+	p {
+		font-size: 1.5em!important;
+	}
 	.section-title-wrapper {
 		border-top: 5px silver solid;
 		border-bottom: 5px silver solid;
