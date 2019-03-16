@@ -1,4 +1,6 @@
-
+	body {
+		background: #1a1a1a!important;
+	}
 	.btn-steel {
 		border: 2px solid;
 		border-image: url(../img/silver.jpg) 30 round;
